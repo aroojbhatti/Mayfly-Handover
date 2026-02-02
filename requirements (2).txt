@@ -1,4 +1,4 @@
-fpdf
+fpdf==1.7.2
 pandas
 pytz
 streamlit==1.31.1
