@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import re
 from datetime import datetime, timedelta, time
-from FPDF import FPDF
+from fpdf import FPDF
 import hashlib
 import pytz
 
